@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+venv/
+env/
+
+# Archivos de configuración
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+
+# Otros archivos generados
+*.log
+*.sqlite3
