@@ -1,0 +1,71 @@
+/* Estilos para el formulario */
+body{
+    background-color: #fefda6;
+}
+h1,h2{
+    text-align: center;
+}
+form {
+    background-color: #fffec4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form input[type="tel"] {
+    width: 80%;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  form button[type="submit"] {
+    margin-left: 550px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Estilos para la lista de empresas */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: #fffec4;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilos para los botones de editar y eliminar */
+  li button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  li button.editar {
+    background-color: #ffc107;
+    color: #fff;
+  }
+  
+  li button.eliminar {
+    background-color: #dc3545;
+    color: #fff;
+  }
