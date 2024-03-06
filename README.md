@@ -23,9 +23,9 @@
 
 <p>5. Inicia el servidor de FastAPI ejecutando el siguiente comando en la carpeta donde se encuentra tu archivo main.py: uvicorn main:app --reload</p>
 
-<p>6. nstala las dependencias de Node.js usando npm: npm install</p>
+<p>6. Instala las dependencias de Node.js usando npm: npm install</p>
 
-<p>7. nicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
+<p>7. Inicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
 
 <h2>🍰 Contribución:</h2>
 
