@@ -5,6 +5,7 @@
 
 <p id="description">Este proyecto es un generador de formularios full stack que utiliza las tecnologías Next.js para el frontend FastAPI para el backend y MySQL como base de datos. Permite a los usuarios crear formularios para recopilar información sobre empresas incluyendo nombre correo electrónico teléfono NIT y dirección.</p>
 
+
   
   
 <h2>📱 Características</h2>
@@ -29,6 +30,7 @@
 <p>6. Instala las dependencias de Node.js usando npm: npm install</p>
 
 <p>7. Inicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
+
 
 <h2>🍰 Contribución:</h2>
 
