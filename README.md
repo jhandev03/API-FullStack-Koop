@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" id="title">Proyecto: Genera tu empresa!</h1>
 
-## Getting Started
+<p id="description">Este proyecto es un generador de formularios full stack que utiliza las tecnologías Next.js para el frontend FastAPI para el backend y MySQL como base de datos. Permite a los usuarios crear formularios para recopilar información sobre empresas incluyendo nombre correo electrónico teléfono NIT y dirección.</p>
 
-First, run the development server:
+  
+  
+<h2>🧐 Features</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Here're some of the project's best features:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+*   Interfaz Intuitiva: El frontend está desarrollado con Next.js lo que garantiza una experiencia de usuario fluida e intuitiva.
+*   Backend Potente: FastAPI se encarga del backend proporcionando una API rápida y eficiente para manejar las solicitudes de los usuarios.
+*   Base de Datos Segura: La información recopilada se almacena de manera segura en una base de datos MySQL garantizando la integridad y confidencialidad de los datos.
+*   Funcionalidad Completa: Permite a los usuarios crear editar y eliminar formularios así como visualizar la información recopilada en un formato fácil de entender.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<h2>🛠️ Installation Steps:</h2>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<p>1. Instalación Clona este repositorio en tu máquina local.</p>
 
-## Learn More
+<p>2. Configura el entorno de desarrollo siguiendo las instrucciones proporcionadas en el README de cada carpeta (frontend y backend).</p>
 
-To learn more about Next.js, take a look at the following resources:
+<p>3. Ejecuta el proyecto localmente y comienza a utilizar el generador de formularios.</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p>4. Instala las dependencias de Python usando pip: bash Copy code pip install fastapi uvicorn</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<h2>🍰 Contribution Guidelines:</h2>
 
-## Deploy on Vercel
+Si quieres contribuir a este proyecto sigue estos pasos: 1.Haz un fork del repositorio. 2.Crea una nueva rama (git checkout -b feature/feature-name). 3.Realiza tus cambios y haz commit (git commit -am 'Add new feature'). 4.Haz push a la rama (git push origin feature/feature-name). 5.Abre un Pull Request.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  
+  
+<h2>💻 Built with</h2>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Technologies used in the project:
+
+*   Next.js: Framework de React para el desarrollo del frontend.
+*   FastAPI: Framework de Python para el desarrollo del backend.
+*   MySQL: Sistema de gestión de bases de datos relacional para el almacenamiento de la información.
+
+<h2>💖Like my work?</h2>
+
+Contacto Para cualquier pregunta o sugerencia no dudes en ponerte en contacto con el equipo de desarrollo a través de jhandurango03@gmail.com. ¡Esperamos tus comentarios! ¡Gracias por tu interés en nuestro proyecto!
