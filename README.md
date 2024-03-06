@@ -1,5 +1,8 @@
 <h1 align="center" id="title">Proyecto: Genera tu empresa!</h1>
 
+<img loading="lazy" src="/app/formulario.png">
+
+
 <p id="description">Este proyecto es un generador de formularios full stack que utiliza las tecnologías Next.js para el frontend FastAPI para el backend y MySQL como base de datos. Permite a los usuarios crear formularios para recopilar información sobre empresas incluyendo nombre correo electrónico teléfono NIT y dirección.</p>
 
   
