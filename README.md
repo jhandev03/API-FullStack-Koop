@@ -17,7 +17,7 @@
 
 <h2>🛠️ Instalación</h2>
 
-<p>1. Instalación Clona este repositorio en tu máquina local.</p>
+<p>1. Clona este repositorio en tu máquina local.</p>
 
 <p>2. Configura el entorno de desarrollo siguiendo las instrucciones proporcionadas en el README de cada carpeta (frontend y backend).</p>
 
