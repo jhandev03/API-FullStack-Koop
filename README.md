@@ -21,17 +21,17 @@
 
 <p>2. Configura el entorno de desarrollo siguiendo las instrucciones proporcionadas en el README de cada carpeta (frontend y backend).</p>
 
-<p>3. Ejecuta el proyecto localmente y comienza a utilizar el generador de formularios.</p>
+<p>3. Instala las dependencias de Python usando pip: pip install fastapi uvicorn</p>
 
-<p>4. Instala las dependencias de Python usando pip: pip install fastapi uvicorn</p>
+<p>4. Inicia el servidor de FastAPI ejecutando el siguiente comando en la carpeta donde se encuentra tu archivo main.py: uvicorn main:app --reload</p>
 
-<p>5. Inicia el servidor de FastAPI ejecutando el siguiente comando en la carpeta donde se encuentra tu archivo main.py: uvicorn main:app --reload</p>
+<p>5. Instala las dependencias de Node.js usando npm: npm install</p>
 
-<p>6. Instala las dependencias de Node.js usando npm: npm install</p>
+<p>6. Inicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
 
-<p>7. Inicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
+<p>7. Ejecuta el proyecto localmente y comienza a utilizar el generador de formularios.</p>
 
-<p>7. Si deseas ingresar al formulario pero no llenar datos puedes ingresar aqui: <a href="https://api-fullstack-koop.vercel.app">Ir a Formulario</a></p>
+<p> Si deseas ingresar al formulario pero no llenar datos puedes ingresar aqui: <a href="https://api-fullstack-koop.vercel.app">Ir a Formulario</a></p>
 
 <h2>🍰 Contribución:</h2>
 
