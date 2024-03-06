@@ -19,7 +19,13 @@
 
 <p>3. Ejecuta el proyecto localmente y comienza a utilizar el generador de formularios.</p>
 
-<p>4. Instala las dependencias de Python usando pip: bash Copy code pip install fastapi uvicorn</p>
+<p>4. Instala las dependencias de Python usando pip: pip install fastapi uvicorn</p>
+
+<p>5. Inicia el servidor de FastAPI ejecutando el siguiente comando en la carpeta donde se encuentra tu archivo main.py: uvicorn main:app --reload</p>
+
+<p>6. nstala las dependencias de Node.js usando npm: npm install</p>
+
+<p>7. nicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
 
 <h2>🍰 Contribución:</h2>
 
