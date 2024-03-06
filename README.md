@@ -31,6 +31,8 @@
 
 <p>7. Inicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
 
+<p>7. Si deseas ingresar al formulario pero no llenar datos puedes ingresar aqui: <a href="https://api-fullstack-koop.vercel.app">Ir a Formulario</a>/</p>
+
 <h2>🍰 Contribución:</h2>
 
 Si quieres contribuir a este proyecto sigue estos pasos: 
