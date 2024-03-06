@@ -54,4 +54,4 @@ Technologies used in the project:
 
 <h2>💖Te gusta mi proyecto ?</h2>
 
-Para cualquier pregunta o sugerencia no dudes en ponerte en contacto con el equipo de desarrollo a través de jhandurango03@gmail.com. ¡Esperamos tus comentarios! ¡Gracias por tu interés en nuestro proyecto!
+Para cualquier pregunta o sugerencia no dudes en ponerte en contacto conmigo a través de jhandurango03@gmail.com. ¡Esperamos tus comentarios! ¡Gracias por tu interés en nuestro proyecto!
