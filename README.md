@@ -31,7 +31,6 @@
 
 <p>7. Inicia el servidor de desarrollo de Next.js ejecutando el siguiente comando en la carpeta donde se encuentra tu proyecto de Next.js: npm run dev</p>
 
-
 <h2>🍰 Contribución:</h2>
 
 Si quieres contribuir a este proyecto sigue estos pasos: 
